@@ -1,7 +1,7 @@
 Welcome to My Project
 
 
-Author: suyash maske
+Author: suyash sukhadev maske
 
 
 Twitter : @suyashmaske
