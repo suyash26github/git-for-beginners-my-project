@@ -6,4 +6,4 @@ Author: suyash sukhadev maske
 
 Twitter : @suyashmaske
 
-Website : suyash.com
+Website : https//:www.suyash.com
