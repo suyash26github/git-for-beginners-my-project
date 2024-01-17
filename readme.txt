@@ -1,4 +1,4 @@
-Welcome to My Project
+Welcome to the "git for beginners" MyProject!
 
 
 Author: suyash sukhadev maske
